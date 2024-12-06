@@ -1,4 +1,4 @@
-# uci-challenge-02
+# uci-02-css-flexbox
 Advanced responsive CSS layout with flexbox, media queries, and CSS variables.
 
 # 02 Advanced CSS: Portfolio
